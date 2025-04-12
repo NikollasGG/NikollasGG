@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NikollasGG
 - 👀 I’m interested in learning more, so I can make more interesting projects
-- 🌱 I’m currently learning Python (from the start 😒)
+- 🌱 I’m currently learning more about Python
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
